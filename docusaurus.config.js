@@ -14,7 +14,7 @@ module.exports = {
   },
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ko', 'es', 'fr', 'it', 'ja', 'br', 'hi', 'id', 'ru'],
+    locales: ['en', 'ko', 'es', 'fr', 'it', 'ja', 'pt', 'br', 'hi', 'id', 'ru'],
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -44,36 +44,49 @@ module.exports = {
         htmlLang: 'fr-FR',
         calendar: 'gregory',
         path: 'fr',
+      },
       it: {
         label: 'Italiano',
         direction: 'ltr',
         htmlLang: 'it-IT',
         calendar: 'gregory',
         path: 'it',
+      },
       ja: {
         label: '日本語',
         direction: 'ltr',
         htmlLang: 'ja-JP',
         calendar: 'gregory',
         path: 'ja',
+      },
+      pt: {
+        label: 'Português',
+        direction: 'ltr',
+        htmlLang: 'pt-PT',
+        calendar: 'gregory',
+        path: 'pt',
+      },
       br: {
         label: 'Português (Brasil)',
         direction: 'ltr',
         htmlLang: 'pt-BR',
         calendar: 'gregory',
         path: 'br',
+      },
       hi: {
         label: 'हिंदी',
         direction: 'ltr',
         htmlLang: 'hi-IN',
         calendar: 'gregory',
         path: 'hi',
+      },
       id: {
         label: 'Bahasa Indonesia',
         direction: 'ltr',
         htmlLang: 'id-ID',
         calendar: 'gregory',
         path: 'id',
+      },
       ru: {
         label: 'Русский',
         direction: 'ltr',
