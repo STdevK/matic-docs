@@ -14,7 +14,7 @@ module.exports = {
   },
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ko', 'es', 'fr', 'it', 'ja', 'br'],
+    locales: ['en', 'ko', 'es', 'fr', 'it', 'ja', 'br', 'hi'],
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -62,6 +62,12 @@ module.exports = {
         htmlLang: 'pt-BR',
         calendar: 'gregory',
         path: 'br',
+       hi: {
+        label: 'हिंदी',
+        direction: 'ltr',
+        htmlLang: 'hi-IN',
+        calendar: 'gregory',
+        path: 'hi',
       },
     },
   },
