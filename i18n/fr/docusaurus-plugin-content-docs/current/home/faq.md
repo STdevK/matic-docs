@@ -94,9 +94,9 @@ Polygon Plasma utilise un système de modèle basé sur un compte plutôt que le
 
 Le réseau Polygon peut être utilisé par dApps sans nécessiter de modifications à leurs jetons ERC20. De plus, notre couche de pointage de contrôle nous permet d'être des ordres de magnitudes plus rapides que les autres implémentations Plasma parce que nous battons les preuves de blocs individuels dans les points de contrôle, tandis que d'autres implémentations Plasma doivent soumettre chaque preuve de bloc à la chaîne principale.
 
-## Comment allez-vous résoudre les problèmes liés à la centralisation ? {#how-are-you-going-to-solve-the-issues-with-centralization}
-
 ![Screenshot](/img/matic/Architecture.png)
+
+## Comment allez-vous résoudre les problèmes liés à la centralisation ? {#how-are-you-going-to-solve-the-issues-with-centralization}
 
 Voici un diagramme pour vous donner un peu de contexte :
 
