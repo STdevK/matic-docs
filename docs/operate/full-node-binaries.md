@@ -114,7 +114,7 @@ Install the latest version of Bor, based on valid v0.3+ [released version](https
 curl -L https://raw.githubusercontent.com/maticnetwork/install/main/bor.sh | bash -s -- <bor_version> <network_type> <node_type>
 ```
 
-**bor_version**: `valid v0.3+ release tag from https://github.com/maticnetwork/heimdall/releases`
+**bor_version**: `valid v0.3+ release tag from https://github.com/maticnetwork/bor/releases`
 **network_type**: `mainnet` and `mumbai`
 **node_type**: `sentry`
 
