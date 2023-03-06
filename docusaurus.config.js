@@ -14,7 +14,7 @@ module.exports = {
   },
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ko', 'es', 'fr', 'it', 'ja', 'pt', 'br', 'hi', 'id', 'ru', 'th'],
+    locales: ['en', 'ko', 'es', 'fr', 'it', 'ja', 'pt', 'br', 'hi', 'id', 'ru', 'th', 'tl'],
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -100,6 +100,13 @@ module.exports = {
         htmlLang: 'th-TH',
         calendar: 'gregory',
         path: 'th',
+      },
+       tl: {
+        label: 'Tagalog',
+        direction: 'ltr',
+        htmlLang: 'tl-PH',
+        calendar: 'gregory',
+        path: 'tl',
       },
     },
   },
