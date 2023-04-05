@@ -42,7 +42,7 @@ With only one API Key, you can request all the chains and networks we support on
 
 ![img](https://files.readme.io/9352cd2-Screen_Shot_2023-01-10_at_19.26.00.png)
 
-Before you start sending RPC requests on MegaNode, you will need to create an API Key first. API Key in MegaNode is a project-based unit used to manage your API requests. You need to input a name for your API Key and leave any notes you prefer for future reference.
+To start sending RPC requests on MegaNode, you'll need to create an API Key. This project-based unit is used to manage your API requests, and requires you to input a name for the key and leave any notes you prefer for future reference. Here's how to get started:
 
 **Get started &rarr;** Input an API **Key name** and leave any **notes** you prefer
 
