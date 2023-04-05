@@ -33,7 +33,7 @@ Many developers prefer to use a node provider when getting started on Polygon, o
 
 ## Send Your First Blockchain API Request
 
-We assumes you have signed up for a [MegaNode account](https://nodereal.io/meganode) and can access the [NodeReal Dashboard](https://dashboard.nodereal.io). “Where to sign up for a MegaNode account?” you asked. We got your back and here’s the [guide](https://docs.nodereal.io/docs/getting-started).
+If you haven't signed up for a MegaNode account yet, you can find a step-by-step guide to getting started [here](https://docs.nodereal.io/docs/getting-started). Once you have a MegaNode account and access to the NodeReal Dashboard, you're ready to proceed.
 
 ### Create Your First API Key
 
