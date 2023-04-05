@@ -26,7 +26,6 @@ If you're new to Web3 development, [NodeReal](https://nodereal.io/) simplifies t
 Many developers prefer to use a node provider when getting started on Polygon, or any chain for that matter, as it offers a quick and easy way to handle requests and responses. NodeReal offers a range of features for developers looking for a node provider on the Polygon network. These features include a Standard Interface that simplifies node usage, as well as reliability and scalability for optimal performance. Additionally, NodeReal offers Archive Data for secure data storage, and an API Marketplace that provides additional resources for developers looking to build on Polygon.
 
 
-:::tip Quality Assurance
 
 
 :::
