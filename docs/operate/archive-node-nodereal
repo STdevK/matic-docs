@@ -17,7 +17,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-# Get access to an Archive Node with NodeReal
+## Get access to an Archive Node with NodeReal
 
 New to Web3 development? Don't worry, you won't have to spin up your own full node on Polygon – NodeReal has got you covered!
 
