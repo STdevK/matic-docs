@@ -19,7 +19,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Get access to an Archive Node with NodeReal
 
-New to Web3 development? Don't worry, you won't have to spin up your own full node on Polygon – NodeReal has got you covered!
+If you're new to Web3 development, [NodeReal](https://nodereal.io/) simplifies the process of setting up a full node on Polygon.
 
 Most developers opt for a node provider – a quick and easy third-party service that handles requests and responses – because it's the fastest route to getting started on Polygon. NodeReal can help you get up and running!
 
