@@ -13,8 +13,7 @@ keywords:
 image: https://wiki.polygon.technology/img/polygon-logo.png
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Get access to an Archive Node with NodeReal
