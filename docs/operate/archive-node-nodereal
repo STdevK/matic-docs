@@ -160,4 +160,8 @@ Latest block number: 40302452
 Latest block details: {.............}
 ```
 
+### Self-Service Troubleshooting for MegaNode users
+Please refer to (MegaNode Errors)[https://docs.nodereal.io/docs/support] for more information.
+
+
 **Great work! You managed to write a working Web3 script and sent your first request via NodeReal API endpoint.**
