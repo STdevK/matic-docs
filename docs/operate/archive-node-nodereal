@@ -24,11 +24,9 @@ If you're new to Web3 development, [NodeReal](https://nodereal.io/) simplifies t
 Many developers prefer to use a node provider when getting started on Polygon, or any chain for that matter, as it offers a quick and easy way to handle requests and responses. NodeReal offers a range of features for developers looking for a node provider on the Polygon network. These features include a Standard Interface that simplifies node usage, as well as reliability and scalability for optimal performance. Additionally, NodeReal offers Archive Data for secure data storage, and an API Marketplace that provides additional resources for developers looking to build on Polygon.
 :::
 
-
 ## Send Your First Blockchain API Request
 
 If you haven't signed up for a MegaNode account yet, you can find a step-by-step guide to getting started [here](https://docs.nodereal.io/docs/getting-started). Once you have a MegaNode account and access to the NodeReal Dashboard, you're ready to proceed.
-
 
 ### Create Your First API Key
 
@@ -161,7 +159,7 @@ Latest block details: {.............}
 ```
 
 ### Self-Service Troubleshooting for MegaNode users
-Please refer to (MegaNode Errors)[https://docs.nodereal.io/docs/support] for more information.
 
+Please refer to (MegaNode Errors)[https://docs.nodereal.io/docs/support] for more information.
 
 **Great work! You managed to write a working Web3 script and sent your first request via NodeReal API endpoint.**
