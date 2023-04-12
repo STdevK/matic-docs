@@ -101,6 +101,7 @@ npm install web3
 ### Create `index.js`
 
 Create a JavaScript file named index.js and paste the following code. 
+
 ```js title="index.js"
 const Web3 = require('web3');
 
