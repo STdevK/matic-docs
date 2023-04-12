@@ -33,7 +33,7 @@ If you haven't signed up for a MegaNode account yet, you can find a step-by-step
 
 ### Create Your First API Key
 
-![img](https://files.readme.io/9352cd2-Screen_Shot_2023-01-10_at_19.26.00.png)
+![MegaNode User's Dashboard without API key created](https://files.readme.io/9352cd2-Screen_Shot_2023-01-10_at_19.26.00.png)
 
 To start sending RPC requests on MegaNode, you'll need to create an API Key. This project-based unit is used to manage your API requests, and requires you to input a name for the key and leave any notes you prefer for future reference. Here's how to get started:
 
@@ -45,11 +45,11 @@ To start sending RPC requests on MegaNode, you'll need to create an API Key. Thi
 
 **Get started &rarr;** Input an API **Key name** and leave any **notes** you prefer
 
-![img](https://files.readme.io/bd84a9f-Screen_Shot_2023-01-10_at_19.29.31.png)
+![Create An API Key](https://files.readme.io/bd84a9f-Screen_Shot_2023-01-10_at_19.29.31.png)
 
 After you have created an API Key, you can find a dashboard on the main screen.
 
-![img](https://files.readme.io/b715e5a-Screen_Shot_2023-01-10_at_19.31.18.png)
+![MegaNode User's Dashboard](https://files.readme.io/b715e5a-Screen_Shot_2023-01-10_at_19.31.18.png)
 
 :::Question of the day: How many API Keys can I create?
 
@@ -61,7 +61,7 @@ The number of available API Keys is subjected to the pricing plan.
 
 After you have successfully created an API Key, you can find the API endpoints on the API Key detail page. Please note that this API key is used to identify a particular user and should **NOT** be shared with anyone.
 
-![img](https://files.readme.io/ce6a39d-Screen_Shot_2023-01-10_at_19.34.38.png)
+![Created Your First API key](https://files.readme.io/ce6a39d-Screen_Shot_2023-01-10_at_19.34.38.png)
 
 ## Make Your First RPC Request
 
@@ -130,7 +130,7 @@ Make sure to replace `<API KEY>` with your NodeReal Https API key now!
 
 You can retrieve the Polygon **Https URL** from your dashboard. 
 
-![img](https://files.readme.io/94f4b79-Screen_Shot_2023-01-16_at_20.24.34.png)
+![Click on Polygon Standard API](https://files.readme.io/94f4b79-Screen_Shot_2023-01-16_at_20.24.34.png)
 
 If you encounter issue, do reach out to us at (Discord)[https://discord.com/invite/nodereal].
 
